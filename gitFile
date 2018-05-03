@@ -1,0 +1,5 @@
+I created a file called octocat.txt in the octobox repository for you (as you can see in the browser below).
+
+You should run the git status command again to see how the repository status has changed:
+
+git status
